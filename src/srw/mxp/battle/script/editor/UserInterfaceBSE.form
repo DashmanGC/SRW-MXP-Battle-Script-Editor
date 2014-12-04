@@ -133,7 +133,7 @@
   </NonVisualComponents>
   <Properties>
     <Property name="defaultCloseOperation" type="int" value="3"/>
-    <Property name="title" type="java.lang.String" value="SRW MXP Battle Script Editor v1.0b by Dashman"/>
+    <Property name="title" type="java.lang.String" value="SRW MXP Battle Script Editor v1.0c by Dashman"/>
     <Property name="resizable" type="boolean" value="false"/>
   </Properties>
   <SyntheticProperties>

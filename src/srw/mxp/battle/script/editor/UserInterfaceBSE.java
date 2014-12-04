@@ -108,7 +108,7 @@ public class UserInterfaceBSE extends javax.swing.JFrame {
         menuitemSJIS = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("SRW MXP Battle Script Editor v1.0b by Dashman");
+        setTitle("SRW MXP Battle Script Editor v1.0c by Dashman");
         setResizable(false);
 
         panelNavigation.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Navigation", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Tahoma", 0, 11), new java.awt.Color(51, 102, 255))); // NOI18N
@@ -1048,14 +1048,14 @@ public class UserInterfaceBSE extends javax.swing.JFrame {
                 case 39: // ' = 39 -> 81 8c
                     Jap_char[1] = (byte) 0x8c;
                     break;
-                case 40: // ( = 40 -> 81 7a
-                    Jap_char[1] = (byte) 0x7a;
+                case 40: // ( = 40 -> 81 69
+                    Jap_char[1] = (byte) 0x69;
                     break;
-                case 41: // ) = 41 -> 81 7b
-                    Jap_char[1] = (byte) 0x7b;
+                case 41: // ) = 41 -> 81 6a
+                    Jap_char[1] = (byte) 0x6a;
                     break;
                 case 42: // * = 42 -> 81 96
-                    Jap_char[1] = (byte) 0x7b;
+                    Jap_char[1] = (byte) 0x96;
                     break;
                 case 43: // + = 43 -> 81 7b
                     Jap_char[1] = (byte) 0x7b;
